@@ -1,0 +1,18 @@
+html {
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+*, *:after, *:before {
+	box-sizing: inherit;
+}
+
+.hide {
+    display: none;
+}
+
+.car {
+    width: 50px;
+    height: 100px;
+    background: transparent url('../image/player.png') center / cover no-repeat;
+}
